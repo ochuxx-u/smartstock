@@ -1841,7 +1841,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Fz3Ig2gvKFyc2nrHf44g" name="Estados_Stock_Alertas">
-    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1375" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1960,7 +1960,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="Se agota por FIFO" mermaidId="e:Vigente-&gt;Consumido#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=classic;endSize=9;fillColor=none;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=#E8E8E88D;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0.04;exitY=1;entryX=0.51;entryY=0;" mermaidBaseValue="Se agota por FEFO" id="K7mKrYrSKxrQXSuF--OS-79">
+        <UserObject label="Se agota por FEFO" mermaidId="e:Vigente-&gt;Consumido#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=classic;endSize=9;fillColor=none;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=#E8E8E88D;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#333333,#cccccc);exitX=0.04;exitY=1;entryX=0.51;entryY=0;" mermaidBaseValue="Se agota por FEFO" id="K7mKrYrSKxrQXSuF--OS-79">
           <mxCell edge="1" parent="K7mKrYrSKxrQXSuF--OS-66" source="K7mKrYrSKxrQXSuF--OS-68" style="curved=1;startArrow=none;endArrow=classic;endSize=9;fillColor=none;strokeColor=light-dark(#333333,#cccccc);html=1;fontSize=16;labelBackgroundColor=#E8E8E88D;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontColor=light-dark(#000000,#000000);exitX=0.04;exitY=1;entryX=0.51;entryY=0;" target="K7mKrYrSKxrQXSuF--OS-73">
             <mxGeometry relative="1" x="-0.1987" y="21" as="geometry">
               <mxPoint as="offset" />

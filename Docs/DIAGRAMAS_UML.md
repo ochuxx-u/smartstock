@@ -52,7 +52,7 @@ Describe el flujo paso a paso del registro de movimientos de inventario por part
 
 Representa las máquinas de estado de dos elementos clave: el **ciclo de vida del lote** (`Vigente` → `PorVencer` → `Vencido` → `Merma`, o `Consumido` al agotarse por FIFO) y el **ciclo de vida de las alertas** (`Nueva` → `Atendida`, `Pospuesta` o `Descartada`), con los eventos y condiciones que provocan cada transición.
 
-## 9. Diagrama de secuencia – Salida de stock con rotación FIFO
+## 9. Diagrama de secuencia – Salida de stock con rotación FEFO
 
 ![Diagrama de secuencia de salida](UML/Secuencia_Salida.png)
 
