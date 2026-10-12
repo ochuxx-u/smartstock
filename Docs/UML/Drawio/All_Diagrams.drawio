@@ -156,6 +156,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PX_mXt9NyhI8v5aCp1FJ-2" connectable="0" parent="bI17MM1eZvnAVxquktgv-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="código versionado" vertex="1">
+          <mxGeometry relative="1" x="0.1315" y="-14" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PX_mXt9NyhI8v5aCp1FJ-5" edge="1" parent="1" source="bI17MM1eZvnAVxquktgv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="bI17MM1eZvnAVxquktgv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PX_mXt9NyhI8v5aCp1FJ-6" edge="1" parent="1" source="bI17MM1eZvnAVxquktgv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="bI17MM1eZvnAVxquktgv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PX_mXt9NyhI8v5aCp1FJ-7" edge="1" parent="1" source="bI17MM1eZvnAVxquktgv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="bI17MM1eZvnAVxquktgv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bI17MM1eZvnAVxquktgv-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="Google Apps Script&lt;div&gt;backend.gs&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="370" as="geometry" />
         </mxCell>
@@ -168,11 +182,26 @@
         <mxCell id="bI17MM1eZvnAVxquktgv-4" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="Google Drive&lt;div&gt;Respaldos semanales&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="130" x="200" y="480" as="geometry" />
         </mxCell>
+        <mxCell id="PX_mXt9NyhI8v5aCp1FJ-8" edge="1" parent="1" source="bI17MM1eZvnAVxquktgv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="bI17MM1eZvnAVxquktgv-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bI17MM1eZvnAVxquktgv-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="Triggers programadas" vertex="1">
           <mxGeometry height="60" width="130" x="40" y="280" as="geometry" />
         </mxCell>
         <mxCell id="bI17MM1eZvnAVxquktgv-7" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;fillColor=#003366;" value="" vertex="1">
           <mxGeometry height="20" width="30" x="30" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="PX_mXt9NyhI8v5aCp1FJ-1" edge="1" parent="1" source="bI17MM1eZvnAVxquktgv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="bI17MM1eZvnAVxquktgv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PX_mXt9NyhI8v5aCp1FJ-3" connectable="0" parent="PX_mXt9NyhI8v5aCp1FJ-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="HTTPS / JSON" vertex="1">
+          <mxGeometry relative="1" x="-0.1397" y="9" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bI17MM1eZvnAVxquktgv-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="Python + NiceGUI&lt;div&gt;smartstock_app.py&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="560" y="280" as="geometry" />
@@ -194,6 +223,11 @@
             </Array>
             <mxPoint x="650" y="470" as="sourcePoint" />
             <mxPoint x="970" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PX_mXt9NyhI8v5aCp1FJ-4" connectable="0" parent="bI17MM1eZvnAVxquktgv-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Despliegue manual" vertex="1">
+          <mxGeometry relative="1" x="-0.4555" y="2" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
